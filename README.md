@@ -1,3 +1,16 @@
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/nFFguNjdeotwc" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nFFguNjdeotwc">via GIPHY</a></p>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+
 ### Hi there 👋
 
 <!--
