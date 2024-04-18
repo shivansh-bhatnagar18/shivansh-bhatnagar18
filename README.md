@@ -80,56 +80,15 @@ Let's connect and build something amazing together!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40px" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px" width="40px"/>
 </div>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-
-          
-          
-
-
 
 ---
 
 ### :fire: My Stats :
 
 ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivansh-bhatnagar18&show_icons=true&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-bhatnagar18&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-bhatnagar18&layout=compact&theme=dark)
+
 
 ---
 
