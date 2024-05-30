@@ -25,7 +25,7 @@ Hi there! 👋 I'm Shivansh Bhatnagar
 
 🌱 Currently Learning: Algorithmic Trading, Cloud Computing
 
-📚 Education: A Sophomore at IIT-BHU, Varanasi [Mathematics and Computing]
+📚 Education: A Pre-Final year student at IIT-BHU, Varanasi [Mathematics and Computing]
 
 🚀 Interests and Hobbies: Is there anything better than headphones and keyboard clacks ? Coffee maybe ☕
 
