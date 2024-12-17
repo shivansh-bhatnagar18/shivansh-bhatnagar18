@@ -35,7 +35,7 @@ Let's connect and build something amazing together!
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="40px" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" height="40px" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40px" width="40px"/>
@@ -89,7 +89,7 @@ Let's connect and build something amazing together!
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-bhatnagar18&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-bhatnagar18&layout=compact&theme=dark)
 
-
+<!-- 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sqmo2f74hb4li6innnuhybs2yu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31sqmo2f74hb4li6innnuhybs2yu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sqmo2f74hb4li6innnuhybs2yu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31sqmo2f74hb4li6innnuhybs2yu&redirect=true) -->
